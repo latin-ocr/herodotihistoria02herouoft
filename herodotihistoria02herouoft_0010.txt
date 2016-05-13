@@ -1,0 +1,41 @@
+SIGLA
+
+A = cod. Laur. LXX, 3
+A't = scriptura codicis A in textu
+Am = scriptura codicis A in margine
+Al = manus prima cod. A ante correcturam factam
+ΑΟ -- scriptura cod. A correctura illata
+Ae (1) = scriptura cod. A correctura manus primae
+illata ⁹
+Eadem ratione in ceteris usus surn
+B = cod. Romanus Angel. August. 83
+C = cod. Laur. conv. suppr. 207
+E = excerpta Parisina
+P = cod. Parisinus 1633
+R = cod. Vaticanus 123
+S = cod. Sancroftianus
+V ε cod. Vindobonensis
+U = cod. Urbinas 88
+
+L = consensus codicum -A B C (E) P R S V (U)
+d = cod. Laur. LXX, 6
+
+Cantabr. = cod. Cantabrigiensis K (Askewianus) ⁷
+
+Remig. = cod. Remigianus
+[ ] scriptura vel deficiens vel incerta, quod maxime
+compendio adhibito fit, velut πῦ (πόλει aut πόλι )
+( ) scriptura quam codici inesse veri simile est
+
+-Ι- -- littera erasa
+s = spatium litterae
+
+ΒΑΚ P ‘722⁵'22-
+
+ά ᾼΛικιιοτςὸε 7 ἡ
+ἦ mv
+
+,l
+
+ 
+
